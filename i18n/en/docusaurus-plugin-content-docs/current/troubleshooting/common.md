@@ -2,7 +2,7 @@
 description: Can't start the game? Can't log into the server or world?
 sidebar_position: 1
 ---
-# Solving Common Issues
+# Solving Common Isss
 Step-by-step guide to solving the most popular issues
 :::info
 If this guide helped you identify the cause of your issue, please do not contact our support team - we won't be able to fix the problem. Reach out to the author of the problematic mod instead!
